@@ -1,4 +1,4 @@
 config.log("index.js");
 console.log("This is the main entry point of the application.");
 console.log("You can add your application logic here.");  
-console.log("Version 3.0.0");
+console.log("Version 5.0.0");
