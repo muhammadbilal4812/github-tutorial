@@ -1,4 +1,4 @@
 console.log("config.js");
 console.log("This is the config file for the project.");
 console.log("You can add your configuration settings here.");
-console.log("Version 1.0.0");
+console.log("Version 2.0.0");
